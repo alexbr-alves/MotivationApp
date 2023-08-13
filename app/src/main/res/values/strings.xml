@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="new_phrase">New message</string>
+    <string name="your_name">What\'s your name?</string>
+    <string name="user">User</string>
+    <string name="phrase">Phrase</string>
+    <string name="save">Save</string>
+    <string name="lets_begin">Let\'s begin?</string>
+    <string name="phrases_all">All message</string>
+    <string name="phrases_motivation">Motivational phrases</string>
+    <string name="phrases_morning">Morning phrases</string>
+    <string name="text_Edid_name_error">You didn\'t fill in your name!</string>
+    <string name="hello_message">Hello, %1$s!</string>
+
+    <string name="validation_mandatory_name">Provide your name.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
